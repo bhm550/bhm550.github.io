@@ -64,6 +64,8 @@ footer{
         color: #f7f7f7;
         text-align: center;
         border: #576b5a solid;
+        background-color: #576b5a;
         text-decoration: none;
+        margin: 10px;
     }
 }
