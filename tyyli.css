@@ -30,6 +30,11 @@ nav a:hover {
     font-weight: bold;
 }
 
+.logo {
+    width: 70px;
+}
+
+
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-size: 17px;
