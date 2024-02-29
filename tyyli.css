@@ -33,6 +33,7 @@ nav a:hover {
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-size: 17px;
+    margin-top: auto;
     display: flex;
     justify-content: space-around;
 
