@@ -17,7 +17,7 @@ nav a {
     display: inline-flexbox;
     font-size: 20px;
     padding: 20px;
-    margin-left: 50px;
+    margin-left: 0px;
 }
 nav a:hover {
     text-decoration: underline;
