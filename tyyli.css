@@ -48,9 +48,10 @@ footer{
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
     h1 {
-        background-image: url(pexels-fauxels-3184465PIENEMPI.jpg);
+        background-image: url(kattely.jpg);
         background-size: cover;
         height: 600px;
+        width: auto;
         padding-top: 100px;
     }
 
