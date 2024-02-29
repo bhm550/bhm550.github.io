@@ -34,6 +34,16 @@ nav a:hover {
     width: 70px;
 }
 
+/*Logon asettelu*/
+.grid-logo { grid-area: g1 }
+.grid-nav { grid-area: g2 }
+
+.grid-navigointi {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+
 
 /*Alatunniste, sama joka sivulla*/
 footer{
