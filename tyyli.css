@@ -14,7 +14,7 @@ h1{
 nav a {
     color: #292929;
     text-decoration: none;
-    display: flex;
+    display: inline-flexbox;
     align-items: center;
     font-size: 20px; 
 }
