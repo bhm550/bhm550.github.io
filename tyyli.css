@@ -29,3 +29,23 @@ nav a:hover {
 #valittu {
     font-weight: bold;
 }
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #f7f7f7;
+    color: #576b5a;
+  }
+  /*Instagram*/
+  .fa-instagram {
+    background: #f7f7f7;
+    color: #576b5a;
+  }
