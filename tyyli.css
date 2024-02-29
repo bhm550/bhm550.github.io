@@ -48,14 +48,8 @@ footer{
 }
 /* Set a specific color for each brand */
 
-/* Facebook */
-.fa-facebook {
-    background: #f7f7f7;
-    color: #576b5a;
-    text-decoration: none;
-  }
-  /*Instagram*/
-  .fa-instagram {
+/* Someikonit */
+.fa {
     background: #f7f7f7;
     color: #576b5a;
     text-decoration: none;
