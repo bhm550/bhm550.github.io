@@ -27,9 +27,6 @@ nav a:hover {
     font-weight: bold;
 }
 
-.toimintakehote a:hover {
-    transform: scale(1.2); /* Suurentaa laatikkoa 20% kun hiiri on sen päällä */
-}
 
 /*Alatunniste, sama joka sivulla*/
 footer{
@@ -71,5 +68,8 @@ footer{
         background-color: #576b5a;
         text-decoration: none;
         margin: 10px 10px;
+    }
+    .toimintakehote a:hover {
+        transform: scale(1.2); /* Suurentaa laatikkoa 20% kun hiiri on sen päällä */
     }
 }
