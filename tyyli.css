@@ -33,20 +33,18 @@ nav a:hover {
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-size: 17px;
-    margin-top: auto;
+    padding-top: 10px;
     display: flex;
     justify-content: space-around;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 1px; 
+    background-color: #292929; 
 
 }
-
-/* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-}
-/* Set a specific color for each brand */
 
 /* Someikonit */
 .fa {
