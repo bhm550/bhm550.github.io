@@ -1,18 +1,24 @@
 body {
     color: #292929;
     background-color: #f7f7f7;
+}
+
+@font-face {
     font-family: News Cycle;
     src: url(NewsCycle-Regular.ttf);
 }
 header {
+    font-family: News Cycle;
     text-align: center;
     padding-top: 30px
 }
 h1{
+    font-family: News Cycle;
     color: #292929;
     font-family: News Cycle;
 }
 nav a {
+    font-family: News Cycle;
     color: #292929;
     text-decoration: none;
     display: inline-flexbox;
@@ -29,6 +35,7 @@ nav a:hover {
 }
 
 .toimintakehote {
+    font-family: News Cycle;
     font-size: 18px;
     color: #f7f7f7;
     text-align: center;
@@ -44,6 +51,7 @@ nav a:hover {
 
 /*Alatunniste, sama joka sivulla*/
 footer{
+    font-family: News Cycle;
     padding-top: 10px;
     display: flex;
     justify-content: space-around;
