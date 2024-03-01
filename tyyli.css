@@ -12,14 +12,7 @@ header {
     text-align: center;
     padding-top: 30px
 }
-h1{
-    font-family: News Cycle;
-    color: #292929;
-}
-p {
-    font-family: News Cycle;
-    color: #292929;
-}
+
 nav a {
     font-family: News Cycle;
     color: #292929;
@@ -35,6 +28,15 @@ nav a:hover {
 }
 #valittu {
     font-weight: bold;
+}
+
+h1{
+    font-family: News Cycle;
+    color: #292929;
+}
+p {
+    font-family: News Cycle;
+    color: #292929;
 }
 
 .toimintakehote {
