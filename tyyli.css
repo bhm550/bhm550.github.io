@@ -2,6 +2,7 @@ body {
     color: #292929;
     background-color: #f7f7f7;
     font-family:"News Cycle";
+    src: url(NewsCycle-Regular.ttf);
 }
 header {
     text-align: center;
