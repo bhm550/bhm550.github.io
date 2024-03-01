@@ -1,7 +1,7 @@
 body {
     color: #292929;
     background-color: #f7f7f7;
-    font-family:"News Cycle";
+    font-family: News Cycle;
     src: url(NewsCycle-Regular.ttf);
 }
 header {
@@ -10,7 +10,7 @@ header {
 }
 h1{
     color: #292929;
-    font-family:"News Cycle";
+    font-family: News Cycle;
 }
 nav a {
     color: #292929;
