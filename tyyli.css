@@ -106,7 +106,6 @@ footer{
         grid-template-areas:
             'g1, g2'
             'g1, g2';
-        margin-bottom: 100px;
     }
 
 }
