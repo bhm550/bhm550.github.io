@@ -69,6 +69,7 @@ p {
 #palvelukuvaus {
     font-family: News Cycle;
     font-size: 20px;
+    text-align: center;
     color: #f7f7f7;
     border: #f7f7f7 solid 2px;
     background-color: #576b5a;
