@@ -60,6 +60,7 @@ p {
 /*pääsivun asettelu*/
 .container{
     display: flex;
+    padding-left: 20px;
 }
 .teksti{
     flex: 1;
