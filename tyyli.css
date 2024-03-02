@@ -59,24 +59,13 @@ p {
 /*pääsivun asettelu*/
 .teksti { grid-area: g1;}
 .kuva { grid-area: g2;}
-.teksti2 { grid-area: 3;}
+.teksti2 { grid-area: g3;}
 
 .container{
     display: grid;
     padding: 20px;
 }
 
-.teksti{
-    flex: 1;
-    padding-left: 50px;
-}
-.kuva {
-    flex: 1;
-    padding-left: 20px;
-}
-.teksti2 {
-    flex: 2;
-}
 #otsikko {
     text-align: center;
 }
@@ -127,6 +116,11 @@ footer{
         padding-top: 150px;
 
     }
- 
+  #pääsivu {
+    grid-template-areas: 
+        'g1, g1, g2'
+        'g3, g3, g2'
+
+  }
 
 }
