@@ -105,9 +105,4 @@ footer{
         margin-bottom: 100px;
     }
 
-    #pääsivu{
-        grid-template-areas: 'g1, g2';
-        margin-bottom: 50px;
-    }
-
 }
