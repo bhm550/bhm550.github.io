@@ -17,7 +17,7 @@ nav a {
     font-family: News Cycle;
     color: #292929;
     text-decoration: none;
-    display: inline-flexbox;
+    display: flexbox;
     font-size: 20px;
     padding: 20px;
 }
