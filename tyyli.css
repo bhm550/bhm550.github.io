@@ -65,12 +65,8 @@ p {
 .container{
     display: grid;
     gap: 20px;
-    padding: 20px;
 }
 
-#otsikko {
-    text-align: center;
-}
 
 #palvelukuvaus {
     font-family: News Cycle;
