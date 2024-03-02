@@ -85,6 +85,7 @@ p {
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-family: News Cycle;
+    border-top: 2px #292929 80%;
     padding-top: 10px;
     display: flex;
     justify-content: space-around;
