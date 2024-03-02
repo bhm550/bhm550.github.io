@@ -64,6 +64,7 @@ p {
 
 .teksti{
     flex: 1;
+    padding-left: 50px;
 }
 .kuva {
     flex: 1;
@@ -116,10 +117,6 @@ footer{
         padding-top: 150px;
 
     }
-    #pääsivu {
-        grid-template-areas:
-            'g2, g1'
-            'g2, g1';
-    }
+ 
 
 }
