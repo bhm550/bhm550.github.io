@@ -63,8 +63,13 @@ p {
 .teksti2 { grid-area: g3;}
 
 .container{
-    display: grid;
-    gap: 20px;
+    display: flex;
+}
+.teksti{
+    flex: 1;
+}
+.kuva{
+    flex: 1;
 }
 
 
@@ -115,12 +120,5 @@ footer{
         padding-top: 150px;
 
     }
-  #pääsivu {
-    grid-template-areas: 
-        'g1, g1, g2'
-        'g3, g3, g2';
-    margin-bottom: 100px;
-
-  }
 
 }
