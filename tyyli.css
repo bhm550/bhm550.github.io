@@ -79,6 +79,11 @@ p {
     padding: 20px;
 }
 
+#pullat {
+    text-align: center;
+}
+    
+
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-family: News Cycle;
