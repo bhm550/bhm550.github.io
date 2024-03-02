@@ -11,8 +11,7 @@ header {
     font-family: News Cycle;
     text-align: center;
     padding-top: 20px;
-    margin-right: 10%;
-    
+    margin-right: 10%;   
 }
 
 nav a {
@@ -69,7 +68,6 @@ p {
     flex: 1;
 }
 
-
 #palvelukuvaus {
     font-family: News Cycle;
     font-size: 20px;
@@ -83,8 +81,6 @@ p {
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-family: News Cycle;
-    border-top: #292929;
-    border-width: 80%;
     padding-top: 10px;
     display: flex;
     justify-content: space-around;
