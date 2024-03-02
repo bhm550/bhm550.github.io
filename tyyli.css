@@ -80,13 +80,12 @@ p {
     border: #f7f7f7 solid 2px;
     background-color: #576b5a;
     padding: 20px;
-    margin: 50%;
 }
 
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-family: News Cycle;
-    border-top: 2px #292929;
+    border-top: #292929;
     border-width: 80%;
     padding-top: 10px;
     display: flex;
