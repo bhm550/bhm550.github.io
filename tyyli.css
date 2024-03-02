@@ -57,8 +57,12 @@ p {
 }
 
 /*pääsivun asettelu*/
+.teksti { grid-area: g1;}
+.kuva { grid-area: g2;}
+.teksti2 { grid-area: 3;}
+
 .container{
-    display: flex;
+    display: grid;
     padding: 20px;
 }
 
