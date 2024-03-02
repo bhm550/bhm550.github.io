@@ -68,6 +68,7 @@ p {
 }
 .kuva {
     flex: 1;
+    padding-left: 20px;
 }
 #otsikko {
     text-align: center;
