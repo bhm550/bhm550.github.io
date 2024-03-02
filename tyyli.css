@@ -57,13 +57,16 @@ p {
 }
 
 /*pääsivun asettelu*/
-.grid-teksti { grid-area: g1;}
-.grid-kuva { grid-area: g2;}
-
-.grid-container{
-    display: grid;
-    gap: 10px;
+.container{
+    display: flex;
     padding: 20px;
+}
+
+.teksti{
+    flex: 1;
+}
+.kuva {
+    flex: 1;
 }
 
 #palvelukuvaus {
