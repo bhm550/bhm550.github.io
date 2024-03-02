@@ -54,6 +54,16 @@ p {
     padding: 10px;
 }
 
+/*pääsivun asettelu*/
+.grid-teksti { grid-area: g1;}
+.grid-kuva { grid-area: g2;}
+
+.grid-container{
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+    
 
 /*Alatunniste, sama joka sivulla*/
 footer{
