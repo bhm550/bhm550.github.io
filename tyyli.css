@@ -10,7 +10,9 @@ body {
 header {
     font-family: News Cycle;
     text-align: center;
-    padding-top: 30px
+    padding-top: 30px;
+    margin-left: 50%;
+    
 }
 
 nav a {
