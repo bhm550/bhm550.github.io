@@ -79,13 +79,13 @@ p {
     border: #576b5a;
     background-color: #576b5a;
     padding: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 #pullat {
     display: flex;
     justify-content: center;
-    padding-left: 50px;
+    padding-left: 200px;
 }
 
 /*kokeillaan laatikkoa laatikossa*/
