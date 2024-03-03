@@ -109,6 +109,9 @@ p {
 }
 #tartu {
     flex: 1;
+    text-align: center;
+    border: 2px #292929;
+    padding-top: 40px;
 }
 
 #tästä {
