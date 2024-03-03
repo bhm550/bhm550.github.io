@@ -141,7 +141,8 @@ footer{
 @media (max-width: 600px) {
     nav a {
         font-size: 14px;
-        display: inline;
+        display: flex;
+        flex-direction: row;
     }
     h1 {
         font-family: News Cycle;
