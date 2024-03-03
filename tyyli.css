@@ -69,19 +69,18 @@ p {
     flex: 1;
 }
 
-#palvelukuvaus {
-    font-family: News Cycle;
-    font-size: 20px;
-    text-align: center;
-    color: #f7f7f7;
-    border: #f7f7f7 solid 2px;
-    background-color: #576b5a;
-    padding: 20px;
-}
-
 #väliotsikko {
     text-align: center;
 }
+#laatikko {
+    color: #f7f7f7;
+    text-align: center;
+    border: #576b5a;
+    background-color: #576b5a;
+    padding: 20px;
+}
+    
+
 
 #pullat {
     display: flex;
