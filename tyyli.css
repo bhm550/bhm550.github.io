@@ -67,6 +67,7 @@ p {
 }
 .kuva{
     flex: 1;
+    padding-top: 10px;
 }
 
 #väliotsikko {
