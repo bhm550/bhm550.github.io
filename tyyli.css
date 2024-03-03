@@ -111,8 +111,6 @@ p {
     flex: 1;
 }
 
-
-
 #tästä {
     text-decoration: none;
     font-weight: bold;
@@ -124,7 +122,6 @@ footer{
     padding-top: 10px;
     display: flex;
     justify-content: space-around;
-
 }
 
 /* Someikonit */
