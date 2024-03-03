@@ -127,6 +127,20 @@ footer{
     text-decoration: none;
   }
 
+/*mobiilikoko*/
+@media (max-width: 600px) {
+    h1 {
+        font-family: News Cycle;
+        color: #292929;
+        background-image: url(kattely-mobiili.jpg);
+        background-size: cover;
+        height: 200px;
+        width: auto;
+        padding-top: 100px;
+    }
+}
+  
+
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
     h1 {
