@@ -57,6 +57,11 @@ p {
     padding: 10px;
 }
 
+.toimintakehote:hover {
+    color: #576b5a;
+    background-color: #f7f7f7;
+}
+
 /*pääsivun asettelu*/
 .container{
     display: flex;
