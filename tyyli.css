@@ -109,6 +109,7 @@ p {
 }
 #tartu {
     flex: 1;
+    font-size: 18px;
     text-align: center;
     border: 2px solid #292929;
     padding: 20px;
