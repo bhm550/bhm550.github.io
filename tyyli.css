@@ -142,7 +142,7 @@ footer{
     nav a {
         font-size: 14px;
         display: flex;
-        flex-direction: column;
+        flex-direction: row-reverse;
     }
     h1 {
         font-family: News Cycle;
