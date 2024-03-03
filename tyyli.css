@@ -79,17 +79,11 @@ p {
     text-align: center;
     padding-top: 0%;
 }
+/*laatikko laatikon sisällä*/
 #laatikko {
     color: #f7f7f7;
     text-align: center;
-
 }
-#pullat {
-    float: left;
-
-}
-
-/*kokeillaan laatikkoa laatikossa*/
 .outer-box {
     display: flex;
     flex-direction: column;
@@ -99,7 +93,6 @@ p {
     margin-left: 150px;
     margin-right: 150px;
 }
-
 .inner-box {
     border: 3px solid #f7f7f7;
     background-color: #576b5a;
@@ -107,6 +100,19 @@ p {
     padding-left: 20px;
     padding-right: 20px;
 }
+.asettelu {
+    display: flex;
+    padding: 20px;
+}
+#pullat {
+    flex: 1;
+}
+#tartu {
+    flex: 1;
+}
+
+
+
 #tästä {
     text-decoration: none;
     font-weight: bold;
