@@ -137,6 +137,9 @@ footer{
 
 /*mobiilikoko*/
 @media (max-width: 600px) {
+    nav a {
+        font-size: 14px;
+    }
     h1 {
         font-family: News Cycle;
         color: #292929;
