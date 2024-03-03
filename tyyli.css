@@ -86,9 +86,8 @@ p {
     margin-right: 100px;
 }
 #pullat {
-    display: flex;
-    justify-content: center;
-    padding-left: 300px;
+    float: left;
+
 }
 
 /*kokeillaan laatikkoa laatikossa*/
