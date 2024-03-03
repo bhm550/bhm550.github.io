@@ -79,6 +79,10 @@ p {
     padding: 20px;
 }
 
+#väliotsikko {
+    text-align: center;
+}
+
 #pullat {
     display: flex;
     align-items: center;
