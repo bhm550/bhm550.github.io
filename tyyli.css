@@ -108,7 +108,9 @@ p {
     background-color: #576b5a;
     padding: 5px;
 }
-    
+#tästä {
+    text-decoration: none;
+}    
 
 /*Alatunniste, sama joka sivulla*/
 footer{
