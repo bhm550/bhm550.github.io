@@ -103,6 +103,7 @@ p {
 .asettelu {
     display: flex;
     padding: 20px;
+    gap: 20px;
 }
 #pullat {
     flex: 1;
