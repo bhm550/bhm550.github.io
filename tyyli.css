@@ -87,6 +87,19 @@ p {
     justify-content: center;
     padding-left: 50px;
 }
+
+/*kokeillaan laatikkoa laatikossa*/
+.outer-box {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.inner-box {
+    border: 1px solid red;
+    padding: 5px;
+}
     
 
 /*Alatunniste, sama joka sivulla*/
