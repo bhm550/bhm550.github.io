@@ -107,6 +107,7 @@ p {
 }
 #tästä {
     text-decoration: none;
+    font-weight: bold;
 }    
 
 /*Alatunniste, sama joka sivulla*/
