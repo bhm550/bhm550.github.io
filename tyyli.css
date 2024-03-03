@@ -142,7 +142,7 @@ footer{
     nav a {
         font-size: 14px;
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: row;
         padding: 5px;
     }
     h1 {
