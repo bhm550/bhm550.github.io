@@ -231,18 +231,15 @@ footer{
         text-align: center;
         padding-top: 150px;
     }
-    .alisivut {
+    #alisivut {
+        color: #292929;
+        text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
         height: 400px;
         padding-top: 200px;
     }
-    #otsikot {
-        color: #f7f7f7;
-        text-align: center;
-        border: solid #576b5a;
-        padding: 20px;
-    }
+
 
 
 
