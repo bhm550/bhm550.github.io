@@ -141,7 +141,7 @@ p {
     flex: 1;
 }
 .toiminta {
-    text-decoration: none;
+    text-decoration: underline;
     color: #292929;
 }
 
