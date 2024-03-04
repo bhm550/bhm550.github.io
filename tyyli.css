@@ -184,7 +184,7 @@ footer{
     }
     .toimintakehote {
         font-size: 14px;
-        padding-top: 20px;
+        margin: 20px;
     }
     .container {
         padding-left: 0; /* Poistetaan vaakasuuntainen täyttö mobiilinäkymässä */
@@ -235,8 +235,9 @@ footer{
         background-image: url(tiimityo.jpg);
         background-size: cover;
         height: 400px;
-        padding-top: 100px;
+        padding-top: 200px;
         text-align: center;
+    
     }
 
 
