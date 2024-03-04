@@ -143,6 +143,9 @@ p {
     text-decoration: underline;
     color: #f7f7f7
 }
+.toiminta:hover {
+     color: #576b5a;
+}
 /*Yhteystietosivun asettelu*/
 .suunnittelu {
     display: flex;
@@ -270,7 +273,6 @@ footer{
         text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
-        border: 3px solid #576b5a;
         height: 300px;
         width: auto;
         padding-top: 200px;
