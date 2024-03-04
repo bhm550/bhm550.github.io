@@ -231,6 +231,9 @@ footer{
         text-align: center;
         padding-top: 150px;
     }
+    .container {
+        display: flex;
+    }
     #alisivut {
         color: #292929;
         text-align: center;
