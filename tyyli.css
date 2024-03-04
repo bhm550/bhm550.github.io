@@ -249,7 +249,8 @@ footer{
         text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
-        height: 400px;
+        height: 300px;
+        width: auto;
         padding-top: 200px;
     }
 
