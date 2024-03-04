@@ -189,6 +189,10 @@ footer{
         font-size: 14px;
         margin: 20px;
     }
+    #ostoskassi {
+        width: 100px;
+        height: auto;
+    }
     .container {
         padding-left: 0; /* Poistetaan vaakasuuntainen täyttö mobiilinäkymässä */
     }
