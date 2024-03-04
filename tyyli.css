@@ -220,7 +220,7 @@ footer{
 
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
-    h1 {
+    .etusivu {
         font-family: News Cycle;
         color: #292929;
         background-image: url(kattely.jpg);
@@ -239,8 +239,6 @@ footer{
         display: flex;
     }
     #alisivut {
-        color: #292929;
-        text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
         height: 400px;
