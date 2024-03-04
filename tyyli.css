@@ -65,6 +65,7 @@ p {
 /*pääsivun asettelu*/
 .container{
     display: flex;
+    flex-direction: column; /*Testataan auttaako mobiiliin muuttamatta työpöytä näkymää*/
     padding-left: 30px;
 }
 .teksti{
@@ -126,6 +127,7 @@ p {
 /*Palvelusivun asettelu*/
 .palvelukuvaus {
     display: flex;
+    flex-wrap: wrap; /*kokeikkaan auttaako toimimaan mobiilissa muuttamatta työpöytänäkymää*/
     padding: 20px;
     gap: 20px;
 }
