@@ -196,6 +196,10 @@ footer{
         border: #576b5a solid;
         background-color: #576b5a;
     }
+    footer{
+        flex-direction: column;
+        text-align: center;
+    }
 }
   
 
