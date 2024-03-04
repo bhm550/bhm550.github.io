@@ -165,6 +165,14 @@ p {
     text-align: center;
     padding: 20px;
 }
+#sähköposti {
+    text-decoration: none;
+    color: #f7f7f7;
+}
+#numero {
+    text-decoration: none;
+    color: #f7f7f7;
+}
 
 
 /*Alatunniste, sama joka sivulla*/
