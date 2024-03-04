@@ -205,9 +205,19 @@ footer{
         display: flex;
         flex-wrap: wrap;
     }
+    .asettelu {
+        flex-wrap: wrap;
+    }
     #pullat {
         width: 300px;
         height: auto;
+        flex: 0 0 100%;
+        padding: 0 15px; 
+    }
+    #tartu {
+        flex: 0 0 100%;
+        padding: 0 15px;
+    }
     }
     #alisivut {
         font-family: News Cycle;
