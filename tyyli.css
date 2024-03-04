@@ -174,8 +174,8 @@ footer{
         color: #292929;
         background-image: url(kattely-mobiili.jpg);
         background-size: cover;
-        height: 200px;
-        width: auto;
+        width: 400px;
+        height: auto;
         padding-top: 100px;
     }
     #slogan {
