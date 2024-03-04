@@ -212,7 +212,8 @@ footer{
     #alisivut {
         font-family: News Cycle;
         font-size: 20px;
-        color: #292929;
+        color: #f7f7f7;
+        text-align: center;
         background-image: url(tiimityo-mobiili.jpg);
         background-size: cover;
         height: 200px;
@@ -245,7 +246,6 @@ footer{
     }
     #alisivut {
         color: #f7f7f7;
-        font-size: 20px;
         text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
