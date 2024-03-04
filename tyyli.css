@@ -220,6 +220,8 @@ footer{
         background-size: cover;
         height: 400px;
         padding-top: 100px;
+        border: #576b5a solid;
+        background-color: #576b5a;
     }
 
 
