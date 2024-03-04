@@ -138,6 +138,9 @@ p {
 #räätälöinti {
     flex: 1;
 }
+.toiminta {
+    text-decoration: none;
+}
 
 
 /*Alatunniste, sama joka sivulla*/
