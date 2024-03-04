@@ -244,6 +244,9 @@ footer{
         padding-top: 150px;
     }
     #alisivut {
+        color: #f7f7f7;
+        font-size: 20px;
+        text-align: center;
         background-image: url(tiimityo.jpg);
         background-size: cover;
         height: 400px;
