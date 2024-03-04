@@ -202,7 +202,8 @@ footer{
         padding: 0 15px; /* Lisätään vaakasuuntainen tila elementtien ympärille */
     }
     #osio {
-
+        display: flex;
+        flex-wrap: wrap;
     }
     #alisivut {
         font-family: News Cycle;
