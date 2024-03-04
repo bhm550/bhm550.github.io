@@ -124,6 +124,20 @@ p {
 }    
 
 /*Palvelusivun asettelu*/
+.palvelukuvaus {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+#messu {
+    flex: 1;
+}
+#pop {
+    flex: 1;
+}
+#räätälöinti {
+    flex: 1;
+}
 
 
 /*Alatunniste, sama joka sivulla*/
