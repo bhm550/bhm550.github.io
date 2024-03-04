@@ -123,6 +123,9 @@ p {
     font-weight: bold;
 }    
 
+/*Palvelusivun asettelu*/
+
+
 /*Alatunniste, sama joka sivulla*/
 footer{
     font-family: News Cycle;
@@ -184,7 +187,16 @@ footer{
         font-size: 40px;
         text-align: center;
         padding-top: 150px;
-
     }
+    #alisivut {
+        font-family: News Cycle;
+        color: #292929;
+        background-image: url(tiimityo.jpg);
+        background-size: cover;
+        height: 400px;
+        padding-top: 100px;
+    }
+
+
 
 }
