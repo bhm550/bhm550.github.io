@@ -169,7 +169,7 @@ footer{
         flex-direction: row;
         padding: 5px;
     }
-    h1 {
+    .etusivu {
         font-family: News Cycle;
         color: #292929;
         background-image: url(kattely-mobiili.jpg);
