@@ -184,12 +184,14 @@ footer{
     }
     #alisivut {
         font-family: News Cycle;
-        color: #292929;
+        color: #f7f7f7;
         background-image: url(tiimityo-mobiili.jpg);
         background-size: cover;
         height: 200px;
         width: auto;
         padding-top: 100px;
+        border: #576b5a solid;
+        background-color: #576b5a;
     }
 }
   
