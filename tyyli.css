@@ -65,7 +65,6 @@ p {
 /*pääsivun asettelu*/
 .container{
     display: flex;
-    flex-direction: column; /*Testataan auttaako mobiiliin muuttamatta työpöytä näkymää*/
     padding-left: 30px;
 }
 .teksti{
@@ -194,12 +193,16 @@ footer{
         height: auto;
     }
     .container {
+        flex-wrap: wrap;
         padding-left: 0; /* Poistetaan vaakasuuntainen täyttö mobiilinäkymässä */
     }
 
     .teksti, .kuva {
         flex: 0 0 100%; /* Venytetään elementit koko leveydelle mobiilinäkymässä */
         padding: 0 15px; /* Lisätään vaakasuuntainen tila elementtien ympärille */
+    }
+    #osio {
+
     }
     #alisivut {
         font-family: News Cycle;
@@ -234,9 +237,6 @@ footer{
         font-size: 40px;
         text-align: center;
         padding-top: 150px;
-    }
-    .container {
-        display: flex;
     }
     #alisivut {
         background-image: url(tiimityo.jpg);
