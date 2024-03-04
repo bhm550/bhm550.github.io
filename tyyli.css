@@ -231,15 +231,17 @@ footer{
         text-align: center;
         padding-top: 150px;
     }
-    #alisivut {
-        font-family: News Cycle;
-        color: #292929;
+    .alisivut {
         background-image: url(tiimityo.jpg);
         background-size: cover;
         height: 400px;
         padding-top: 200px;
+    }
+    #otsikot {
+        color: #f7f7f7;
         text-align: center;
-    
+        border: solid #576b5a;
+        padding: 20px;
     }
 
 
