@@ -273,6 +273,9 @@ footer{
         width: auto;
         padding-top: 200px;
     }
+    .suunnittelu{
+        padding-top: 20px;
+    }
     #yhteys {
         color: #292929;
         font-size: 40px;
