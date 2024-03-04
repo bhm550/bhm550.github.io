@@ -184,6 +184,15 @@ footer{
     }
     .toimintakehote {
         font-size: 14px;
+        padding-top: 20px;
+    }
+    .container {
+        padding-left: 0; /* Poistetaan vaakasuuntainen täyttö mobiilinäkymässä */
+    }
+
+    .teksti, .kuva {
+        flex: 0 0 100%; /* Venytetään elementit koko leveydelle mobiilinäkymässä */
+        padding: 0 15px; /* Lisätään vaakasuuntainen tila elementtien ympärille */
     }
     #alisivut {
         font-family: News Cycle;
