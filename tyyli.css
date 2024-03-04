@@ -209,6 +209,7 @@ footer{
         flex-wrap: wrap;
     }
     #pullat {
+        display: block;
         background-image: url(pullat-mobiili.jpg);
         flex: 0 0 100%;
         padding: 0 15px; 
