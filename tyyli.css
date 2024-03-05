@@ -293,7 +293,7 @@ footer{
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
     nav a {
-        margin: 20px;
+        margin-bottom: 20px;
     }
 
     .etusivu {
