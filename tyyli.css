@@ -265,6 +265,9 @@ footer{
         width: auto;
         padding-top: 100px;
     }
+    #yhteys {
+        font-size: 14px;
+    }
     .suunnittelukuva {
         width: 300px;
         height: auto;
