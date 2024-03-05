@@ -149,9 +149,11 @@ nav a:hover {
     display: flex;
     padding-top: 20px;
     gap: 20px;
+    align-items: center;
 }
 .tekstiosa {
     flex: 1;
+    text-align: center;
 }
 .suunnittelukuva {
     flex: 1;
