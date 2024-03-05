@@ -224,6 +224,7 @@ footer{
     #ostoskassi {
         width: 100%;
         height: auto;
+        align-items: center;
     }
     .container {
         flex-wrap: wrap;
@@ -334,7 +335,7 @@ footer{
         margin: 50px;
     }
     .suunnittelukuva {
-        height: 400px;
+        height: auto;
         width: auto;
         padding-right: 30px;
     }
