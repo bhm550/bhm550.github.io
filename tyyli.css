@@ -217,6 +217,7 @@ footer{
         margin: 20px;
     }
     #ostoskassi {
+        flex: 100%; /*testaaan tuleeko kuva keskelle*/
         width: 300px;
         height: auto;
     }
@@ -267,6 +268,7 @@ footer{
     }
     #yhteys {
         font-size: 20px;
+        text-align: center;
     }
     .suunnittelukuva {
         width: 300px;
