@@ -291,6 +291,10 @@ footer{
 
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
+    nav a {
+        padding-bottom: 20px;
+    }
+
     .etusivu {
         font-family: NewsCycle;
         color: #292929;
