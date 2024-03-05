@@ -207,13 +207,13 @@ footer{
         background-size: cover;
         height: 200px;
         width: auto;
-        padding-top: 100px;
+        
     }
     #slogan {
         font-size: 20px;
         text-align: center;
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
     .toimintakehote {
         text-align: center;
