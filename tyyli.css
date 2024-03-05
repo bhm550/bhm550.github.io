@@ -268,8 +268,11 @@ footer{
         padding-top: 100px;
     }
     #yhteys {
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
+    }
+    #osoitetiedot {
+        font-size: 18px;
     }
     .suunnittelukuva {
         width: 300px;
