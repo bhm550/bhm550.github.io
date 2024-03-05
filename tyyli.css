@@ -251,7 +251,7 @@ footer{
         flex-wrap: wrap;
     }
     #pullat {
-        width: 350px;
+        width: 100%;
         height: auto;
         padding-right: 30px; /*kuvaa keskelle*/
     }
