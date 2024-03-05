@@ -218,7 +218,7 @@ footer{
     }
     .toimintakehote {
         font-size: 14px;
-        border: 10px none;
+        margin-top: 20px;
         margin: 20px;
     }
     #ostoskassi {
