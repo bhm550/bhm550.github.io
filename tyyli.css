@@ -248,8 +248,7 @@ footer{
         flex-wrap: wrap;
     }
     #pullat {
-        flex: 0 0 100%;
-        padding: 0 15px; 
+        flex: 0 0 100%; /*otettiin padding pois mobiilitesti*/
     }
     #tartu {
         flex: 0 0 100%;
