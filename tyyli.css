@@ -247,7 +247,7 @@ footer{
     }
     #pullat {
         flex: 100%; /*otettiin padding pois mobiilitesti*/
-        width: 400px;
+        width: 350px;
         height: auto;
 
     }
