@@ -222,7 +222,6 @@ footer{
         margin: 20px;
     }
     #ostoskassi {
-        flex: 100%; /*testaaan tuleeko kuva keskelle*/
         width: 100%;
         height: auto;
     }
