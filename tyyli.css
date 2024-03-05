@@ -295,5 +295,9 @@ footer{
     .suunnittelu{
         padding-top: 20px;
     }
+    #osoitetiedot {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
 
 }
