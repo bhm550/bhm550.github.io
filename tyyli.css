@@ -301,6 +301,10 @@ footer{
     .suunnittelu{
         margin-top: 30px;
     }
+    .tekstiosio {
+        padding-top: 20px;
+
+    }
     #yhteys {
         margin: auto;
         text-align: center;
