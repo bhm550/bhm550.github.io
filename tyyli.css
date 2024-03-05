@@ -149,6 +149,8 @@ p {
 /*Yhteystietosivun asettelu*/
 .suunnittelu {
     display: flex;
+    padding-top: 30px;
+    gap: 20px;
 }
 .tekstiosa {
     flex: 1;
@@ -297,6 +299,7 @@ footer{
     #osoitetiedot {
         font-size: 20px;
         padding: 20px;
+        margin: 50px;
     }
 
 }
