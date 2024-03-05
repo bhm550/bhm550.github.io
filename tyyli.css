@@ -203,7 +203,7 @@ footer{
         color: #292929;
         background-image: url(kattely-mobiili.jpg);
         background-size: cover;
-        height: 200px;
+        height: 300px;
         width: auto;
         
     }
@@ -330,7 +330,7 @@ footer{
     .alisivu {
         color: #f7f7f7;
         text-align: center;
-        margin-bottom: 0;
+        margin-bottom: 0%;
     }
     .alisivualateksti {
         font-size: 30px;
