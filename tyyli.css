@@ -276,7 +276,7 @@ footer{
         font-size: 20px;
     }
     .suunnittelukuva {
-        width: 300px;
+        width: 100%;
         height: auto;
         padding-left: 20px;
     }
@@ -349,7 +349,7 @@ footer{
     }
     .suunnittelukuva {
         height: auto;
-        width: auto;
+        width: 100%;
         padding-right: 30px;
     }
 }
