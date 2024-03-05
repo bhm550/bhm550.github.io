@@ -335,6 +335,8 @@ footer{
         margin: 50px;
     }
     .suunnittelukuva {
+        height: 200px;
+        width: auto;
         padding-right: 30px;
     }
 }
