@@ -304,6 +304,9 @@ footer{
         text-align: center;
         padding-top: 150px;
     }
+    #laatikko {
+        font-size: 18px;
+    }
     #alisivut {
         color: #f7f7f7;
         text-align: center;
