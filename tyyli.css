@@ -4,32 +4,32 @@ body {
 }
 /*Fontit*/
 @font-face {
-    font-family: News Cycle;
+    font-family: NewsCycle;
     src: url(NewsCycle-Regular.ttf);
 }
 h1{
-    font-family: News Cycle;
+    font-family: NewsCycle;
     color: #292929;
     font-weight: bold;
 }
 h2, h3{
-    font-family: News Cycle;
+    font-family: NewsCycle;
     font-size: 25px;
     color: #292929;
 }
 p {
-    font-family: News Cycle;
+    font-family: NewsCycle;
     color: #292929;
 }
 header {
-    font-family: News Cycle;
+    font-family: NewsCycle;
     text-align: center;
     padding-top: 20px;
     margin-right: 10%;   
 }
 
 nav a {
-    font-family: News Cycle;
+    font-family: NewsCycle;
     color: #292929;
     text-decoration: none;
     display: inline;
@@ -45,7 +45,7 @@ nav a:hover {
     font-weight: bold;
 }
 .toimintakehote {
-    font-family: News Cycle;
+    font-family: NewsCycle;
     font-size: 18px;
     color: #f7f7f7;
     text-align: center;
@@ -178,7 +178,7 @@ nav a:hover {
 
 /*Alatunniste, sama joka sivulla*/
 footer{
-    font-family: News Cycle;
+    font-family: NewsCycle;
     padding-top: 10px;
     display: flex;
     justify-content: space-around;
@@ -201,7 +201,7 @@ footer{
         padding: 5px;
     }
     .etusivu {
-        font-family: News Cycle;
+        font-family: NewsCycle;
         color: #292929;
         background-image: url(kattely-mobiili.jpg);
         background-size: cover;
@@ -258,7 +258,7 @@ footer{
         flex: 100%; /*otettiin padding pois mobiilitesti*/  
     }
     #alisivut {
-        font-family: News Cycle;
+        font-family: NewsCycle;
         font-size: 20px;
         color: #f7f7f7;
         text-align: center;
@@ -290,7 +290,7 @@ footer{
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
     .etusivu {
-        font-family: News Cycle;
+        font-family: NewsCycle;
         color: #292929;
         background-image: url(kattely.jpg);
         background-size: cover;
