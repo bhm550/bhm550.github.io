@@ -223,12 +223,9 @@ footer{
     }
     .container {
         flex-wrap: wrap;
-        padding-left: 0; /* Poistetaan vaakasuuntainen täyttö mobiilinäkymässä */
+        padding: 10px;
     }
 
-    .teksti, .kuva {
-        flex: 0 0 100%; /* Venytetään elementit koko leveydelle mobiilinäkymässä */
-        padding: 0 15px; /* Lisätään vaakasuuntainen tila elementtien ympärille */
     }
     .outer-box { /*testataan sopiiko asettelu mobiiliib*/
     display: flex;
