@@ -329,6 +329,15 @@ footer{
         width: auto;
         padding-top: 200px;
     }
+    .alisivu {
+        color: #f7f7f7;
+        text-align: center;
+    }
+    .alisivualateksti {
+        color: #f7f7f7;
+        text-align: center;
+
+    }
     .suunnittelu{
         margin-top: 30px;
     }
