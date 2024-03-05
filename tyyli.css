@@ -205,6 +205,10 @@ footer{
         background-size: cover;
         height: 300px;
         width: auto;
+
+    .text-aling {
+        text-align: center;
+    }
         
     }
     #slogan {
