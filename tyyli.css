@@ -251,8 +251,7 @@ footer{
         flex: 0 0 100%; /*otettiin padding pois mobiilitesti*/
     }
     #tartu {
-        flex: 0 0 100%;
-        padding: 0 15px;
+        flex: 0 0 100%; /*otettiin padding pois mobiilitesti*/  
     }
     #alisivut {
         font-family: News Cycle;
