@@ -330,6 +330,7 @@ footer{
     .alisivu {
         color: #f7f7f7;
         text-align: center;
+        margin-bottom: 0;
     }
     .alisivualateksti {
         font-size: 30px;
