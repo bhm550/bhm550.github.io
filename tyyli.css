@@ -224,7 +224,6 @@ footer{
     #ostoskassi {
         width: 100%;
         height: auto;
-        align-items: center;
     }
     .container {
         flex-wrap: wrap;
