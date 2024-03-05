@@ -296,6 +296,10 @@ footer{
     .suunnittelu{
         padding-top: 20px;
     }
+    #yhteys {
+        margin: auto;
+        text-align: center;
+    }
     #osoitetiedot {
         font-size: 20px;
         padding: 20px;
