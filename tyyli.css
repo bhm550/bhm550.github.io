@@ -308,6 +308,9 @@ footer{
         margin-right: 50%;
         margin-left: 50%;
     }
+    #toimintakehote {
+        text-align: center;
+    }
     #laatikko {
         font-size: 18px;
     }
