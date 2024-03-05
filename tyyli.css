@@ -252,7 +252,7 @@ footer{
     #pullat {
         width: 350px;
         height: auto;
-        padding-right: 10px; /*kuvaa keskelle*/
+        padding-right: 30px; /*kuvaa keskelle*/
     }
     #tartu {
         flex: 100%; /*otettiin padding pois mobiilitesti*/  
@@ -275,7 +275,7 @@ footer{
     .suunnittelukuva {
         width: 300px;
         height: auto;
-        padding-left: 10px;
+        padding-left: 20px;
     }
     .suunnittelu {
         flex-wrap: wrap;
