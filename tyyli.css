@@ -267,6 +267,16 @@ footer{
         width: auto;
         padding-top: 100px;
     }
+    .alisivu {
+        font-size: 20px;
+        color: #f7f7f7;
+        text-align: center;
+    }
+    .alisivualateksti {
+        font-size: 18px;
+        color: #f7f7f7;
+        text-align: center;
+    }
     #yhteys {
         font-size: 20px;
         text-align: center;
