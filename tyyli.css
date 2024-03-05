@@ -223,7 +223,7 @@ footer{
     }
     #ostoskassi {
         flex: 100%; /*testaaan tuleeko kuva keskelle*/
-        width: 300px;
+        width: 100%;
         height: auto;
     }
     .container {
@@ -254,7 +254,6 @@ footer{
     #pullat {
         width: 100%;
         height: auto;
-        padding-right: 30px; /*kuvaa keskelle*/
     }
     #tartu {
         flex: 100%; /*otettiin padding pois mobiilitesti*/  
