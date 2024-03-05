@@ -250,10 +250,9 @@ footer{
         flex-wrap: wrap;
     }
     #pullat {
-        align-items: center; /*kuva keskelle*/
         width: 350px;
         height: auto;
-
+        padding-right: 10px; /*kuvaa keskelle*/
     }
     #tartu {
         flex: 100%; /*otettiin padding pois mobiilitesti*/  
