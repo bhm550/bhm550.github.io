@@ -275,6 +275,7 @@ footer{
     .suunnittelukuva {
         width: 300px;
         height: auto;
+        padding-left: 10px;
     }
     .suunnittelu {
         flex-wrap: wrap;
