@@ -149,7 +149,7 @@ p {
 /*Yhteystietosivun asettelu*/
 .suunnittelu {
     display: flex;
-    padding-top: 30px;
+    padding-top: 100px;
     gap: 20px;
 }
 .tekstiosa {
