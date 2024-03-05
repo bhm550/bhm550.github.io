@@ -149,7 +149,6 @@ p {
 /*Yhteystietosivun asettelu*/
 .suunnittelu {
     display: flex;
-    padding-top: 100px;
     gap: 20px;
 }
 .tekstiosa {
@@ -308,7 +307,7 @@ footer{
         padding-top: 200px;
     }
     .suunnittelu{
-        padding-top: 20px;
+        margin-top: 100px;
     }
     #yhteys {
         margin: auto;
