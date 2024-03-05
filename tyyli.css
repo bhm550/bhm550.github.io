@@ -225,8 +225,6 @@ footer{
         flex-wrap: wrap;
         padding: 10px;
     }
-
-    }
     .outer-box { /*testataan sopiiko asettelu mobiiliib*/
     display: flex;
     flex-direction: column;
