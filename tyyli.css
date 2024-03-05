@@ -249,7 +249,7 @@ footer{
         flex-wrap: wrap;
     }
     #pullat {
-        flex: 100%; /*otettiin padding pois mobiilitesti*/
+        align-items: center; /*kuva keskelle*/
         width: 350px;
         height: auto;
 
