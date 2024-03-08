@@ -325,6 +325,9 @@ footer{
         margin-right: 35%;
         margin-left: 35%;
     }
+    .text-aling {
+        text-align: center;
+    }
     #laatikko {
         font-size: 18px;
     }
