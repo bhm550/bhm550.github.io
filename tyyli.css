@@ -340,6 +340,12 @@ footer{
     .text-aling {
         text-align: center;
     }
+    #myyntikuvaus {
+        font-size: 18px;
+    }
+    #palvelukuvaus {
+        font-size: 18px;
+    }
     #laatikko {
         font-size: 18px;
     }
