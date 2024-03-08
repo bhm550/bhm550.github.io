@@ -74,6 +74,10 @@ nav a:hover {
     flex: 1;
     padding-top: 10px;
 }
+#räätälöidyt {
+    text-decoration: none;
+    color: #292929;
+}
 
 #väliotsikko {
     text-align: center;
