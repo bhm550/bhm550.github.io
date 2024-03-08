@@ -2,6 +2,11 @@ body {
     color: #292929;
     background-color: #f7f7f7;
 }
+header {
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 10%;   
+}
 /*Fontit*/
 @font-face {
     font-family: NewsCycle;
@@ -21,13 +26,7 @@ p {
     font-family: NewsCycle;
     color: #292929;
 }
-header {
-    font-family: NewsCycle;
-    text-align: center;
-    padding-top: 20px;
-    margin-right: 10%;   
-}
-
+/*Päävalikko*/
 nav a {
     font-family: NewsCycle;
     color: #292929;
