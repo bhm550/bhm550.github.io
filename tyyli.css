@@ -13,22 +13,22 @@ header {
     src: url(NewsCycle-Regular.ttf);
 }
 h1{
-    font-family: NewsCycle;
+    font-family: NewsCycle, sans-serif;
     color: #292929;
     font-weight: bold;
 }
 h2, h3{
-    font-family: NewsCycle;
+    font-family: NewsCycle, sans-serif;
     font-size: 25px;
     color: #292929;
 }
 p {
-    font-family: NewsCycle;
+    font-family: NewsCycle, sans-serif;
     color: #292929;
 }
 /*Päävalikko*/
 nav a {
-    font-family: NewsCycle;
+    font-family: NewsCycle, sans-serif;
     color: #292929;
     text-decoration: none;
     display: inline;
@@ -44,7 +44,6 @@ nav a:hover {
     font-weight: bold;
 }
 .toimintakehote {
-    font-family: NewsCycle;
     font-size: 18px;
     color: #f7f7f7;
     text-align: center;
@@ -127,7 +126,7 @@ nav a:hover {
 /*Palvelusivun asettelu*/
 .palvelukuvaus {
     display: flex;
-    flex-wrap: wrap; /*kokeikkaan auttaako toimimaan mobiilissa muuttamatta työpöytänäkymää*/
+    flex-wrap: wrap;
     padding: 20px;
     gap: 20px;
 }
@@ -259,10 +258,9 @@ footer{
         height: auto;
     }
     #tartu {
-        flex: 100%; /*otettiin padding pois mobiilitesti*/  
+        flex: 100%; 
     }
     #alisivut {
-        font-family: NewsCycle;
         font-size: 20px;
         color: #f7f7f7;
         text-align: center;
@@ -308,9 +306,7 @@ footer{
     nav a {
         margin-bottom: 10%;
     }
-
     .etusivu {
-        font-family: NewsCycle;
         color: #292929;
         background-image: url(kattely.jpg);
         background-size: cover;
@@ -318,7 +314,6 @@ footer{
         width: auto;
         padding-top: 100px;
     }
-
     #slogan {
         font-size: 40px;
         text-align: center;
@@ -354,7 +349,6 @@ footer{
         font-size: 30px;
         color: #f7f7f7;
         text-align: center;
-
     }
     .suunnittelu{
         margin-top: 30px;
@@ -362,7 +356,6 @@ footer{
     .tekstiosa {
         padding-top: 20px;
         margin-top: auto;
-
     }
     #yhteys {
         margin: auto;
