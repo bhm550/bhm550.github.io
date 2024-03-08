@@ -210,9 +210,7 @@ footer{
     #slogan {
         font-size: 20px;
         text-align: center;
-        margin-left: 10%;
-        margin-right: 10%;
-        margin-top: 10%;
+        margin-top: 30%;
     }
     .toimintakehote {
         text-align: center;
@@ -231,13 +229,13 @@ footer{
         flex-wrap: wrap;
         padding: 10px;
     }
-    .outer-box { /*testataan sopiiko asettelu mobiiliib*/
+    .outer-box { 
     display: flex;
     flex-direction: column;
     border: 2px solid #576b5a;
     background-color: #576b5a;
     padding: 10px;
-    margin: 10px; /* Vähennetään marginaaleja mobiililaitteilla */
+    margin: 10px; 
     }
     .inner-box {
     border: 3px solid #f7f7f7;
