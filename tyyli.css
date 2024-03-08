@@ -201,8 +201,6 @@ footer{
         padding: 5px;
     }
     .etusivu {
-        font-family: NewsCycle;
-        color: #292929;
         background-image: url(kattely-mobiili.jpg);
         background-size: cover;
         height: 300px;
@@ -307,7 +305,6 @@ footer{
         margin-bottom: 10%;
     }
     .etusivu {
-        color: #292929;
         background-image: url(kattely.jpg);
         background-size: cover;
         height: 400px;
