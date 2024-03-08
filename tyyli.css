@@ -296,7 +296,14 @@ footer{
         text-align: center;
     }
 }
-  
+/*tablettikoko*/
+@media screen and (min-width: 600px) {
+    .etusivu {
+        background-image: url(kattely.jpg);
+        background-size: cover;
+        height: 400px;
+    }
+}
 
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
