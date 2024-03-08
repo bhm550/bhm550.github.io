@@ -204,13 +204,12 @@ footer{
         background-image: url(kattely-mobiili.jpg);
         background-size: cover;
         height: 300px;
-        width: auto;
-        
+        width: auto;      
     }
     #slogan {
         font-size: 20px;
         text-align: center;
-        padding-top: 20px;
+        padding-top: 30px;
         margin-top: 10%;
     }
     .toimintakehote {
