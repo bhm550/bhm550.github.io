@@ -398,6 +398,7 @@ footer{
     #soita {
         font-size: 25px;
         font-weight: bold;
+        margin-top: 5%; /*kokeillaan*/
     }
     #osoitetiedot {
         font-size: 20px;
