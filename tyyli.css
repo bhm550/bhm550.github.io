@@ -333,6 +333,7 @@ footer{
         height: 400px;
         width: auto;
         padding-top: 100px;
+        margin-top: 20px;
     }
     #slogan {
         font-size: 40px;
@@ -365,6 +366,7 @@ footer{
         height: 300px;
         width: auto;
         padding-top: 200px;
+        margin-top: 20px;
     }
     .alisivu {
         color: #f7f7f7;
