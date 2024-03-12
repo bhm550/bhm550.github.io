@@ -308,7 +308,7 @@ footer{
         text-align: center;
     }
 }
-/*tablettikoko*/
+/*tablettikoko, jota ei tarvinnutkaan tehdä, joten siksi vain nämä asettelut*/
 @media screen and (min-width: 600px) {
     .etusivu {
         background-image: url(kattely.jpg);
